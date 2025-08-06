@@ -1,0 +1,8 @@
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\bin\Debug\Proyecto visual Studio.exe.config
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\bin\Debug\Proyecto visual Studio.exe
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\bin\Debug\Proyecto visual Studio.pdb
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\obj\Debug\Proyecto visual Studio.csproj.AssemblyReference.cache
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\obj\Debug\Proyecto visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\obj\Debug\Proyecto visual Studio.exe
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\obj\Debug\Proyecto visual Studio.pdb
+C:\Users\Roberto DIaz\Desktop\tarea visual\Proyecto visual Studio\obj\Debug\Proyecto visual Studio.exe.config
